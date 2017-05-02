@@ -1,0 +1,6 @@
+//预编译es6语法的配置
+{
+  "presets": [
+    ["es2015", { "modules": false }]
+  ]
+}
